@@ -1,8 +1,7 @@
 ### Hi there, I'm Pranali Chakor! 👋
 
 🚀 **Full Stack Developer | UI/UX Enthusiast | Passionate about Web Development**
-
-Here's the updated paragraph with your academic details included:  
+ 
 
 "I'm a **Full Stack Developer** with a strong interest in **UI/UX design**. Currently, I'm **pursuing my 3rd year in Computer Engineering** while mastering the **MERN stack**, focusing on **Data Structures and Algorithms (DSA)**, and building innovative projects. I love designing user-friendly web interfaces and solving real-world problems through technology."  
 
