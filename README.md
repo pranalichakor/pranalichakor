@@ -49,9 +49,9 @@
 
 ### 📌 Featured Projects
 
-🚀 **[JOB PORTAL](#)** – A sleek personal website showcasing my work.  
-📝 **[Real-time Code Editor](#)** – A collaborative coding environment using the MERN stack.  
-🤖 **[MEDICAL WEBSITE-MEDLINK](#)** – A modern landing page designed with HTML, CSS, and JavaScript.
+🚀 Job Portal – A full-stack MERN website for job listings, applications, and recruitment.
+📝 Real-time Code Editor – A collaborative coding environment built using the MERN stack.
+🤖 Medical Website – MedLink – A full-stack medical appointment platform with modern UI using the MERN stack.
 
 ---
 
