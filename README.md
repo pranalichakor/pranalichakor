@@ -50,7 +50,9 @@
 ### 📌 Featured Projects
 
 🚀 Job Portal – A full-stack MERN website for job listings, applications, and recruitment.
+
 📝 Real-time Code Editor – A collaborative coding environment built using the MERN stack.
+
 🤖 Medical Website – MedLink – A full-stack medical appointment platform with modern UI using the MERN stack.
 
 ---
