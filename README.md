@@ -49,9 +49,9 @@
 
 ### 📌 Featured Projects
 
-🚀 **[Portfolio Website](#)** – A sleek personal website showcasing my work.  
+🚀 **[JOB PORTAL](#)** – A sleek personal website showcasing my work.  
 📝 **[Real-time Code Editor](#)** – A collaborative coding environment using the MERN stack.  
-🤖 **[Responsive Landing Page](#)** – A modern landing page designed with HTML, CSS, and JavaScript.
+🤖 **[MEDICAL WEBSITE-MEDLINK](#)** – A modern landing page designed with HTML, CSS, and JavaScript.
 
 ---
 
