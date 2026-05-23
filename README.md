@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | UI/UX Enthusiast | Passionate about Web Development**
  
 
-"I'm a **Full Stack Developer** with a strong interest in **UI/UX design**. Currently, I'm **pursuing my 4th year in Computer Engineering** while mastering the **MERN stack**, focusing on **Data Structures and Algorithms (DSA)**, and building innovative projects. I love designing user-friendly web interfaces and solving real-world problems through technology."  
+"I'm a **Full Stack Developer** with a strong interest in **UI/UX design**. Currently, I'm ** software Engineer** while masterd the **MERN stack**, focusing on **Data Structures and Algorithms (DSA)**, and building innovative projects. I love designing user-friendly web interfaces and solving real-world problems through technology."  
 
 
 ---
